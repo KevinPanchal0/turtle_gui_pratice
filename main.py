@@ -90,7 +90,7 @@ directions = [0,90,180,270]
 # for _ in range(100):
 #     random_walk(max_the_turtle, random.choice(directions), random_color())
 
-spirograph(max_the_turtle, 90)
+spirograph(max_the_turtle, 5)
 screen = t.Screen( )
 screen.exitonclick()
 
